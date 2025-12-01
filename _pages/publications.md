@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Pre-Print
+## Pre-Prints
 
 - Towards Generalizable Human Activity Recognition: A Survey<br>
 **Yize Cai**, Baoshen Guo, Flora Salim, Zhiqing Hong 
