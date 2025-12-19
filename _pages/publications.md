@@ -19,4 +19,4 @@ author_profile: true
 
 - **[IEEE TNSRE]** Fall Monitoring with Single IMU: A Large-Scale Dataset and A Novel Dual-Branch Network<br>
 **Yize Cai**, Junxin Chen, Qiang He, Jun Mou, David Camacho 
-[[Dataset](https://zenodo.org/records/17552449)]
+[[Paper](https://ieeexplore.ieee.org/document/11303325)] [[Dataset](https://zenodo.org/records/17552449)]
