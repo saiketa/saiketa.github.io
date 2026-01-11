@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yize Cai, an incoming Ph.D. student in the Thrust of Internet of Things at the Hong Kong University of Science and Technology (Guangzhou). I will be fortunate to work under the supervision of Prof. [Zhiqing Hong](http://www.zhiqinghong.one/) and Dr. [Baoshen Guo](https://baoshenguo.com/). Before that, I received my B.E. degree in Software Engineering at Dalian University of Technology in 2025.
+Hello, I am Yize Cai, a first year Ph.D. student in the Internet of Things Thrust at the Hong Kong University of Science and Technology (Guangzhou). I am honored to work under the supervision of Prof. [Zhiqing Hong](http://www.zhiqinghong.one/) and Dr. [Baoshen Guo](https://baoshenguo.com/). Before that, I received my B.E. degree in Software Engineering at Dalian University of Technology in 2025.
 
 ## Research Interests
 
