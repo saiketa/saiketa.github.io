@@ -15,6 +15,10 @@ author_profile: true
 **Yize Cai**, Baoshen Guo, Flora Salim, Zhiqing Hong 
 [[Paper](https://arxiv.org/abs/2508.12213)] [[Project](https://github.com/rh20624/Awesome-IMU-Sensing)]
 
+- **[arXiv'26]** Wearable AI in the Era of Large Sensor Models<br>
+**Yize Cai**, Baoshen Guo, Guobin Shen, Zhiqing Hong 
+[[Paper](https://arxiv.org/abs/2604.10172)]
+
 ## Journal Papers
 
 - **[IEEE TNSRE'25]** Fall Monitoring with Single IMU: A Large-Scale Dataset and A Novel Dual-Branch Network<br>
