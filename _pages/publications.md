@@ -19,6 +19,10 @@ author_profile: true
 **Yize Cai**, Baoshen Guo, Guobin Shen, Zhiqing Hong 
 [[Paper](https://arxiv.org/abs/2604.10172)]
 
+- **[arXiv'26]** BenchHAR: Benchmarking Self-Supervised Learning for Generalizable Sensor-based Activity Recognition<br>
+**Yize Cai**, Rui Feng, Anlan Yu, Baoshen Guo, Zhiqing Hong 
+[[Paper](https://arxiv.org/abs/2605.08296)] [[Code](https://github.com/saiketa/HAR-Bench)]
+
 ## Journal Papers
 
 - **[IEEE TNSRE'25]** Fall Monitoring with Single IMU: A Large-Scale Dataset and A Novel Dual-Branch Network<br>
