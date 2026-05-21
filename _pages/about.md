@@ -20,3 +20,9 @@ My research focuses on **mobile computing and sensing**, with an emphasis on lev
 
 - Dalian University of Technology, China<br>
   BE in Software Engineering (2021.09 - 2025.06)
+
+## Awards and Honors
+
+- First Prize - IMU-based Object Activity Recognition Competition, [IEEE/ACM CPS-IoT Week](https://www.linkedin.com/posts/cps-iot-week_cpsiot-pal2sim-ai-activity-7460298236394762240-Hv1U?utm_source=share&utm_medium=member_desktop&rcm=ACoAABti_9EBsNaBZm3E9qkjJTG9OBSjQG2T1hI), 2026
+- Outstanding Undergraduate Thesis, China, 2025
+- Undergraduate Research Innovation Fund, China, 2024
