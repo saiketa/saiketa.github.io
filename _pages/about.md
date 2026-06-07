@@ -11,8 +11,7 @@ Hello, I am Yize Cai, a first year Ph.D. student in the Internet of Things Thrus
 
 ## Research Interests
 
-- Foundation Models for Wearable AI: I develop deployable and generalizable **Large Sensor Models (LSMs)** that learn transferable sensing representations from multimodal wearable and IoT data, enabling robust and comprehensive understanding of human behaviors and health states.
-- AI-enhanced Population-Scale Sensing: I leverage large-scale human-generated sensor data to understand population-level behaviors and mobility patterns, with the goal of transforming ubiquitous sensing data into actionable insights for urban analytics and societal well-being.
+My research focuses on **mobile computing and sensing**, with an emphasis on leveraging machine learning and data analytics to address challenges in sensing systems. I am particularly interested in developing foundation models for wearable AI and advancing human activity sensing technologies, aiming to build intelligent, robust, and human-centered mobile systems.
 
 ## Educations
 
