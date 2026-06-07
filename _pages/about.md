@@ -11,9 +11,10 @@ Hello, I am Yize Cai, a first year Ph.D. student in the Internet of Things Thrus
 
 ## Research Interests
 
-My research focuses on **mobile computing and sensing**, with an emphasis on leveraging machine learning and data analytics to address challenges in sensing systems. I am particularly interested in developing foundation models for wearable AI and advancing human activity sensing technologies, aiming to build intelligent, robust, and human-centered mobile systems.
+- Foundation Models for Wearable AI: I develop deployable and generalizable **Large Sensor Models (LSMs)** that learn transferable sensing representations from multimodal wearable and IoT data, enabling robust and comprehensive understanding of human behaviors and health states.
+- AI-enhanced Population-Scale Sensing: I leverage large-scale human-generated sensor data to understand population-level behaviors and mobility patterns, with the goal of transforming ubiquitous sensing data into actionable insights for urban analytics and societal well-being.
 
-## Education
+## Educations
 
 - Hong Kong University of Science and Technology (Guangzhou), China<br>
   PhD in Internet of Things (2026.01 - Present)
@@ -23,6 +24,7 @@ My research focuses on **mobile computing and sensing**, with an emphasis on lev
 
 ## Awards and Honors
 
+- Silver Medal (171/4243) - [BirdCLEF+](https://www.kaggle.com/competitions/birdclef-2026), Kaggle, 2026
 - First Prize - [Pal2Sim Competition](https://www.pal2sim.com/?tab=competition), [IEEE/ACM CPS-IoT Week](https://www.linkedin.com/posts/cps-iot-week_cpsiot-pal2sim-ai-activity-7460298236394762240-Hv1U?utm_source=share&utm_medium=member_desktop&rcm=ACoAABti_9EBsNaBZm3E9qkjJTG9OBSjQG2T1hI), 2026
 - Outstanding Undergraduate Thesis, China, 2025
 - Undergraduate Research Innovation Fund, China, 2024
