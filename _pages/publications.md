@@ -27,7 +27,7 @@ author_profile: true
 
 - **[ACM IMWUT/UbiComp'26]** Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition<br>
 **Yize Cai**, Rui Feng, Kunlin Cai, Yunhuai Liu, Baoshen Guo, Zhiqing Hong<br>
-*ACM International Joint Conference on Pervasive and Ubiquitous Computing (IMWUT Papers), 2026*
+*ACM International Joint Conference on Pervasive and Ubiquitous Computing, IMWUT Papers, 2026*
 
 ## Journal Papers
 
