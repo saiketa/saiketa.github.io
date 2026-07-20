@@ -29,6 +29,10 @@ author_profile: true
 **Yize Cai**, Rui Feng, Kunlin Cai, Yunhuai Liu, Baoshen Guo, Zhiqing Hong<br>
 *ACM International Joint Conference on Pervasive and Ubiquitous Computing, IMWUT Papers, 2026*
 
+- **[ACM UbiComp'26]**  Leveraging Vision-Language Knowledge for Generalizable Human Activity Recognition<br>
+**Yize Cai**, Anlan Yu, Baoshen Guo, Zhiqing Hong<br>
+*ACM International Joint Conference on Pervasive and Ubiquitous Computing, Posters, 2026*
+
 ## Journal Papers
 
 - **[IEEE TNSRE'25]** Fall Monitoring with Single IMU: A Large-Scale Dataset and A Novel Dual-Branch Network<br>
