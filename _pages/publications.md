@@ -33,6 +33,10 @@ author_profile: true
 **Yize Cai**, Anlan Yu, Baoshen Guo, Zhiqing Hong<br>
 *ACM International Joint Conference on Pervasive and Ubiquitous Computing, Posters, 2026*
 
+- **[ACM UbiComp'26]**  Longitudinal Context Enhancement for Daily Guidance Generation in Personal Health Agents<br>
+**Yize Cai**, Chiew Hui Lim, Anlan Yu, Baoshen Guo, Zhiqing Hong<br>
+*ACM International Joint Conference on Pervasive and Ubiquitous Computing, Student Challenge, 2026*
+
 ## Journal Papers
 
 - **[IEEE TNSRE'25]** Fall Monitoring with Single IMU: A Large-Scale Dataset and A Novel Dual-Branch Network<br>
