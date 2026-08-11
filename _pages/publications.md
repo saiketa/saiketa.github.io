@@ -25,9 +25,9 @@ author_profile: true
 
 ## Conference Papers
 
-- **[ACM IMWUT/UbiComp'26]** Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition<br>
-**Yize Cai**, Rui Feng, Kunlin Cai, Yunhuai Liu, Baoshen Guo, Zhiqing Hong<br>
-*ACM International Joint Conference on Pervasive and Ubiquitous Computing, IMWUT Papers, 2026*
+- **[ACM CIKM'26]** Next Token Prediction for Generalizable Human Activity Recognition<br>
+**Yize Cai**, Anlan Yu, Baoshen Guo, Yunhuai Liu, Zhiqing Hong <br>
+*ACM Conference on Knowledge and Information Management, Full Research Papers, 2026*
 
 - **[ACM UbiComp'26]**  Leveraging Vision-Language Knowledge for Generalizable Human Activity Recognition<br>
 **Yize Cai**, Anlan Yu, Baoshen Guo, Zhiqing Hong<br>
@@ -36,6 +36,10 @@ author_profile: true
 - **[ACM UbiComp'26]**  Longitudinal Context Enhancement for Daily Guidance Generation in Personal Health Agents<br>
 **Yize Cai**, Chiew Hui Lim, Anlan Yu, Baoshen Guo, Zhiqing Hong<br>
 *ACM International Joint Conference on Pervasive and Ubiquitous Computing, Student Challenge, 2026*
+
+- **[ACM IMWUT/UbiComp'26]** Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition<br>
+**Yize Cai**, Rui Feng, Kunlin Cai, Yunhuai Liu, Baoshen Guo, Zhiqing Hong<br>
+*ACM International Joint Conference on Pervasive and Ubiquitous Computing, IMWUT Papers, 2026*
 
 ## Journal Papers
 
