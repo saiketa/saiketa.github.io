@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yize Cai, a first year Ph.D. student in the Internet of Things Thrust at the Hong Kong University of Science and Technology (Guangzhou). I am honored to work under the supervision of Prof. [Zhiqing Hong](http://www.zhiqinghong.one/) and Dr. [Baoshen Guo](https://baoshenguo.com/). Before that, I received my B.E. degree in Software Engineering at Dalian University of Technology in 2025.
+Hello, I am Yize Cai, a first year Ph.D. student in the Internet of Things Thrust at The Hong Kong University of Science and Technology (Guangzhou). I am honored to work under the supervision of Prof. [Zhiqing Hong](https://robinhong1.github.io/) and Dr. [Baoshen Guo](https://baoshenguo.com/). Before that, I received my B.E. degree in Software Engineering at Dalian University of Technology in 2025.
 
 ## Research Interests
 
-My research focuses on **mobile computing and sensing**, with an emphasis on leveraging machine learning and data analytics to address challenges in sensing systems. I am particularly interested in developing foundation models for wearable AI and advancing human activity sensing technologies, aiming to build intelligent, robust, and human-centered mobile systems.
+My research focuses on **Wearable AI**, **Sensor Foundation Models (LSMs)**, **Mobile Computing**, and **IoT**, with applications in **Human Behavior Understanding**, **Healthcare Monitoring**, and **Social Good**.
 
 ## Educations
 
-- Hong Kong University of Science and Technology (Guangzhou), China<br>
-  PhD in Internet of Things (2026.01 - Present)
+- The Hong Kong University of Science and Technology (Guangzhou), China<br>
+  PhD in Internet of Things (2026.01 - Present)<br>
+  Advisor: Prof. [Zhiqing Hong](https://robinhong1.github.io/) and Dr. [Baoshen Guo](https://baoshenguo.com/)
 
 - Dalian University of Technology, China<br>
-  BE in Software Engineering (2021.09 - 2025.06)
+  BE in Software Engineering (2021.09 - 2025.06)<br>
+  Advisor: Prof. [Junxin Chen](https://faculty.dlut.edu.cn/chenjunxin/zh_CN/index.htm) and Prof. [Yu Liu](https://liuyudut.github.io/)
 
 ## Awards and Honors
 
