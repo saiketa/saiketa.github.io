@@ -11,7 +11,7 @@ Hello, I am Yize Cai, a first year Ph.D. student in the Internet of Things Thrus
 
 ## Research Interests
 
-My research focuses on **Wearable AI**, **Sensor Foundation Models (LSMs)**, **Mobile Computing**, and **IoT**, with applications in **Human Behavior Understanding**, **Healthcare Monitoring**, and **Social Good**.
+My research focuses on **Wearable AI**, **Sensor Foundation Models**, and **IoT**, with applications in **Human Behavior Understanding**, **Healthcare Monitoring**, and **Social Good**.
 
 ## Educations
 
