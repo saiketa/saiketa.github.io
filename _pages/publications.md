@@ -27,23 +27,24 @@ author_profile: true
 
 - Next Token Prediction for Generalizable Human Activity Recognition<br>
 **Yize Cai**, Anlan Yu, Baoshen Guo, Yunhuai Liu, Zhiqing Hong <br>
-In *ACM Conference on Knowledge and Information Management (**CIKM**), Full Research Papers, 2026 (Oral)*
+*ACM Conference on Knowledge and Information Management (**CIKM** Full Research Papers), 2026 (Oral)*
 
 - Leveraging Vision-Language Knowledge for Generalizable Human Activity Recognition<br>
 **Yize Cai**, Anlan Yu, Baoshen Guo, Zhiqing Hong<br>
-In *ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp**), Posters, 2026*
+*ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp** Poster), 2026*
 
 - Longitudinal Context Enhancement for Daily Guidance Generation in Personal Health Agents<br>
 **Yize Cai**, Chiew Hui Lim, Anlan Yu, Baoshen Guo, Zhiqing Hong<br>
-In *ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp**), Student Challenge, 2026*
-
-- Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition<br>
-**Yize Cai**, Rui Feng, Kunlin Cai, Yunhuai Liu, Baoshen Guo, Zhiqing Hong<br>
-In *ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp**), IMWUT Papers, 2026*
+*ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp** Poster), 2026*
 
 ## Journal Papers
+
+- Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition<br>
+**Yize Cai**, Rui Feng, Kunlin Cai, Yunhuai Liu, Baoshen Guo, Zhiqing Hong
+[[Paper](https://dl.acm.org/doi/10.1145/3832003)] [[Code](https://github.com/saiketa/VisionHAR)]<br>
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 2026*
 
 - Fall Monitoring with Single IMU: A Large-Scale Dataset and A Novel Dual-Branch Network<br>
 **Yize Cai**, Junxin Chen, Qiang He, Jun Mou, David Camacho 
 [[Paper](https://ieeexplore.ieee.org/document/11303325)] [[Dataset](https://zenodo.org/records/17552449)]<br>
-In *IEEE Transactions on Neural Systems and Rehabilitation Engineering (**TNSRE**), 2026*
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering (**TNSRE**), 2026*
