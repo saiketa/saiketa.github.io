@@ -25,7 +25,8 @@ My research focuses on **Wearable AI**, **Sensor Foundation Models**, and **IoT*
 
 ## Awards and Honors
 
+- IoT Student Achievement Award, The Hong Kong University of Science and Technology (Guangzhou), China, 2026
 - Silver Medal - [BirdCLEF+](https://www.kaggle.com/competitions/birdclef-2026), Kaggle, 2026
-- First Prize - [Pal2Sim Competition](https://www.pal2sim.com/?tab=competition), [IEEE/ACM CPS-IoT Week](https://www.linkedin.com/posts/cps-iot-week_cpsiot-pal2sim-ai-activity-7460298236394762240-Hv1U?utm_source=share&utm_medium=member_desktop&rcm=ACoAABti_9EBsNaBZm3E9qkjJTG9OBSjQG2T1hI), 2026
-- Outstanding Undergraduate Thesis, China, 2025
-- Undergraduate Research Innovation Fund, China, 2024
+- First Prize - [Pal2Sim Competition](https://www.pal2sim.com/?tab=competition), [IEEE/ACM CPS-IoT Week](https://www.linkedin.com/posts/cps-iot-week_cpsiot-pal2sim-ai-activity-7460298236394762240-Hv1U?utm_source=share&utm_medium=member_desktop&rcm=ACoAABti_9EBsNaBZm3E9qkjJTG9OBSjQG2T1hI), France, 2026
+- Outstanding Undergraduate Thesis, Dalian University of Technology, China, 2025
+- Undergraduate Research Innovation Fund, Dalian University of Technology, China, 2024
